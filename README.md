@@ -1,7 +1,7 @@
 # senior_care_connect
 
 A new Flutter project.
-
+but now I am doing this in react app
 ## Getting Started
 
 This project is a starting point for a Flutter application.
